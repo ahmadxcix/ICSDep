@@ -1,0 +1,42 @@
+a {
+  color: #0060b6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00a0c6;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropright:hover > .dropdown-menu {
+  display: block;
+}
+
+.intro-image {
+  width: 100%;
+}
+#main {
+  margin-top: 100px;
+}
+#welcome {
+  background-color: #e8e8e8;
+}
+
+.icon {
+  color: green;
+}
+
+#footer {
+  padding: 7% 15%;
+  background-color: #e8e8e8;
+  text-align: center;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
